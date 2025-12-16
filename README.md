@@ -71,7 +71,7 @@ This project focuses on segmenting customers into meaningful groups using the **
 3. Follow the step-by-step cells (SQL + clustering)
 4. View and interpret the visual output
 
----
+---   
 
 ## 📌 Note
 
